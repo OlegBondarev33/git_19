@@ -18,6 +18,8 @@
 Сделайте git push origin master.
 В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
 
+https://github.com/OlegBondarev33/git_19/commit/72dc8a0aa271d35606c4d42aa3d64d43285f79b9
+
 Задание 2
 Что нужно сделать:
 
