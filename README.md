@@ -44,4 +44,4 @@ https://github.com/OlegBondarev33/git_19/blob/main/invite%20.gitignore
 Не удаляйте ветку dev.
 В качестве ответа прикрепите ссылку на граф коммитов https://github.com/ваш-логин/ваш-репозиторий/network в ваш md-файл с решением.
 
-https://github.com/OlegBondarev33/git_19/network
+https://github.com/OlegBondarev33/GIT_333/network
